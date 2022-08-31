@@ -1,0 +1,85 @@
+body{
+	background: url("https://images.unsplash.com/photo-1514810771018-276192729582?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-size: cover;
+	color:black;
+}
+a{
+	color: black;
+<h1>WELCOME TO AXIOM FASHION</h1>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    	<title>AXIOM FASHION</title>
+    <body>
+    	<a 
+    	href="fashion.html"class="pinklink">
+    	ALL ABOUT FASHION
+        </a>
+        &nbsp;
+        <a 
+        href="clothes.html"class="bluelink">
+        <br>
+        Trending Clothes
+        </a>
+        &nbsp;
+        <a 
+        href="contact.html"class="greenlink">
+        
+        <br>
+        CONTACT US
+        </a>
+        <hr></hr>
+        <h3>
+            ABOUT AXIOM FASHION
+            <hr></hr>
+            <br>
+            <br>
+           <center>           
+            "THE SECRET OF FASHION 
+            <br>IS TO FEEL GOOD 
+            <br>IN WHAT YOU WEAR"
+           </center>
+           <center>
+           <p> Hello! Welcome to Axiom Fashion.The main purpose of this site is to update you about the most trending fashionable
+           <br>clothes.We daily update this site as the fashion changes.And according to your need and the most importantly your 
+           <br>comfort because we believe that comfort is the first priority in fashion. Visit our site and find your comfortable
+           <br>clothes.  
+           </p>
+           </center>
+           
+        
+
+    </body>	
+
+;
+	text-decoration: none;
+}	
+
+a:hover{
+	color: black;
+	background: deeppink;
+}
+.greenlink:hover{
+	color: deeppink;
+	background: black;
+}
+.bluelink:hover{
+	color: deeppink;
+	background: black;
+}
+.pinklink:hover{
+	color: deeppink;
+	background:black;
+}
+
+}
+h1{
+	font-family:"Times New Roman"serif;
+	font-size: xx-large;
+}
+.indent{
+	margin-left: 100px;
+}
+h2{
+    background: "https://images.unsplash.com/photo-1475179377649-672d1c1c75ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80";
+}
